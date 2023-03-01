@@ -1,0 +1,21 @@
+.tabList {
+    margin-left: 10rem;
+    flex: 1;
+}
+
+.tabList__list {
+    display: flex;
+    align-items: center; 
+}
+
+.tabList__item {
+    list-style: none;
+    margin-left: 2rem;
+    font-size: 1rem;
+    transition: font-size 0.3s;
+}
+
+.tabList__item:hover {
+    cursor: pointer;
+    font-size: 1.2rem;
+}

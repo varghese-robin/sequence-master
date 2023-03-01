@@ -1,0 +1,9 @@
+.header {
+    display: flex;
+    margin-left: 0;
+    align-items: center;
+    padding-left: 2rem;
+    padding-top: 0.5rem;
+    height: 10vh;
+    box-shadow: 2px 2px 12px rgba(255, 0, 0, 0.15)
+}
